@@ -1,0 +1,12 @@
+Para usar:
+1 - Copie el proyecto en su servidor local o remoto
+
+2 - Importe a su servidor MySQL la base de datos que esta en la carpeta DB
+
+3 - Configure los archivos app.php & server.php con los datos del servidor. Los archivos estan en la carpeta config
+
+4 - Cuenta por defecto
+
+Usuario: Administrador
+
+Clave: Administrador
